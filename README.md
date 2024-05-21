@@ -32,6 +32,6 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
     <a href="https://www.w3schools.com/django/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
 <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/> </a>
-  <a href="https://staruml.io/" target="_blank" rel="noreferrer"> <img src="file://staruml_94078.svg" alt="staruml" width="40" height="40"/> </a>
+  <a href="file:///C:/Users/21694/Downloads/httpsraw.githubusercontent.comdeviconsdeviconmastericonsnodejsnodejs-original-wordmark.svg.svg" target="_blank" rel="noreferrer"> <img src="file://staruml_94078.svg" alt="staruml" width="40" height="40"/> </a>
 </p>
 </p>
