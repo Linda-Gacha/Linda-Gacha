@@ -32,7 +32,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
       <a href="https://www.overleaf.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/django/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-    <a href="https://icon-icons.com/fr/download/94078/SVG/512/" target="_blank" rel="noreferrer"> <img src="https://icon-icons.com/icons2/2389/PNG/512/coreldraw_logo_icon_144752.png" alt="CorelDraw" width="40" height="40"/> </a>
+    <a href="https://icon-icons.com/fr/download/94078/SVG/512/" target="_blank" rel="noreferrer"> <img src="https://icon-icons.com/icons2/2389/PNG/512/coreldraw_logo_icon_144752.svg" alt="CorelDraw" width="40" height="40"/> </a>
 
 <a href="https://www.apachefriends.org/index.html" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2389/SVG/512/xampp_logo_icon_144759.svg" alt="xampp" width="40" height="40"/> </a>
 
