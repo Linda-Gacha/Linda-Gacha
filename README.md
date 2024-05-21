@@ -34,6 +34,8 @@
    <a href="https://www.apachefriends.org/index.html" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/xampp.svg" alt="xampp" width="40" height="40"/> 
 </a>
+  <a href="https://www.w3schools.com/django/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
+
 
 
 
