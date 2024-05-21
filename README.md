@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on some exciting projects.
 - 🎓 I'm currently studying Software Engineering at [ITBS](https://itbs.tn/).
 - 🌱 I'm always learning and exploring new technologies.
-- 📄 See my [Portfolio](https://lindagacha.github.io/Portfolio/)
+- 📄 See my [Portfolio](https://github.com/Linda-Gacha/Mon-Portfolio.git)
 - 📄 See my [CV]([https://drive.google.com/file/d/1gcXc7O1Ai1LgYLPo7roDJzVTS20h47Dm/view](https://www.linkedin.com/in/linda-gacha/overlay/1635528980600/single-media-viewer/?profileId=ACoAAC8Bx_ABJKfWBwY0L7QnwVIv5aXE8MioG70))
 
 <h3 align="left">Top Skills</h3>
