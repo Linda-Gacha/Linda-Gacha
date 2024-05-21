@@ -32,7 +32,8 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
       <a href="https://www.overleaf.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/django/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-       <a href="https://icon-icons.com/fr/icone/staruml/94078" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios-filled/50/000000/staruml.png" alt="staruml" width="40" height="40"/> </a>
+        <a href="https://icon-icons.com/fr/icone/staruml/94078" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/1488/PNG/512/94078-staruml_102171.png" alt="staruml" width="40" height="40"/> </a>
+
 
 
 </p>
