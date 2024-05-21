@@ -35,7 +35,7 @@
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/xampp.svg" alt="xampp" width="40" height="40"/> 
 </a>
 <a href="https://staruml.io/" target="_blank" rel="noreferrer"> 
-  <img src="https://simpleicons.org/icons/staruml.svg" alt="StarUML" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/StarUML_logo.svg" alt="StarUML" width="40" height="40"/> 
 </a>
 
 
