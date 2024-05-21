@@ -34,9 +34,6 @@
    <a href="https://www.apachefriends.org/index.html" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/xampp.svg" alt="xampp" width="40" height="40"/> 
 </a>
-<a href="https://staruml.io/" target="_blank" rel="noreferrer"> 
-  <img src="https://iconape.com/wp-content/files/eb/370471/svg/staruml-1.svg" alt="StarUML" width="40" height="40"/> 
-</a>
 
 
 
