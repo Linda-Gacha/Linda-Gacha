@@ -11,7 +11,7 @@
 - 🎓 I'm currently studying Software Engineering at [ITBS](https://itbs.tn/).
 - 🌱 I'm always learning and exploring new technologies.
 - 📄 See my [Portfolio](https:///Linda-Gacha.github.io/Portfolio/)
-- 📄 See my [CV]([https://drive.google.com/file/d/1gcXc7O1Ai1LgYLPo7roDJzVTS20h47Dm/view](https://www.linkedin.com/in/linda-gacha/overlay/1635528980600/single-media-viewer/?profileId=ACoAAC8Bx_ABJKfWBwY0L7QnwVIv5aXE8MioG70))
+- 📄 See my [CV](https://media.licdn.com/dms/document/media/D4E2DAQEh0B4D10FB4g/profile-treasury-document-pdf-analyzed/0/1686523926542?e=1717027200&v=beta&t=0IYC98le3EsQgPjKzWH0zNW9LIzqZx4LRzY-2PJr9kQ)
 
 <h3 align="left">Top Skills</h3>
 • Communication • Public Speaking • Agile Methods • Software Development • Django  • Linux-security  • Foundation of Cybersecurity
