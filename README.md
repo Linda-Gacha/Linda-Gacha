@@ -14,7 +14,7 @@
 - 📄 See my [CV](https://media.licdn.com/dms/document/media/D4E2DAQEh0B4D10FB4g/profile-treasury-document-pdf-analyzed/0/1686523926542?e=1717027200&v=beta&t=0IYC98le3EsQgPjKzWH0zNW9LIzqZx4LRzY-2PJr9kQ)
 
 <h3 align="left">Top Skills</h3>
-• Communication • Public Speaking • Agile Methods • Software Development • Django  • Linux-security  • Foundation of Cybersecurity  • JavaFoundation 
+• Communication • Public Speaking • Agile Methods • Software Development • Django  • Linux-security  • Foundation of Cybersecurity  • Java
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
