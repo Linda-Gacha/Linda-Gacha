@@ -4,7 +4,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/linda-gacha" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://linda-gacha.github.io/Mon-Portfolio/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/portfolio.png" alt="Portfolio" height="30" width="40" /></a>
+  <a href="https://linda-gacha.github.io/Portfolio-cv/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/portfolio.png" alt="Portfolio" height="30" width="40" /></a>
 </p>
 
 - 🔭 I’m currently working on some exciting projects.
