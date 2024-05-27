@@ -18,7 +18,7 @@
 • Communication • Public Speaking • Agile Methods • Software Development • Django  • Linux-security  </br>
 • Foundation of Cybersecurity  • Java
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">🚀 Some Tools I Use</h2>
 <p align="left">
   <a href="https://reactjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
