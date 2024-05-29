@@ -7,7 +7,7 @@
 - 🌱 I'm always learning and exploring new technologies.And I’m currently learning **React**
 - 📫 How to reach me: <strong><a href="lindagacha86@gmail.com">lindagacha86@gmail.com</a>
 - 📄 See my [Portfolio](https://linda-gacha.github.io/Portfolio-cv/)
-- 📄 See my [CV](https://heyzine.com/flip-book/0a2b27e40a.html)
+- 📄 See my [CV](https://heyzine.com/flip-book/d6af8542b4.html)
   
   <h3 align="left">Connect with me:</h3>
 <p>
