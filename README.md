@@ -1,10 +1,10 @@
-<h1 align="center">Hey there! 👋, I'm Linda Gacha 😊</h1>
-<h3 align="center">Software Engineering Student🚀</h3>
+<h1 align="center">Hey there! 👋, I'm Linda Gacha </h1>
+<h3 align="center">I Am A Passionate IT Student🚀</h3>
 
 
-- 🔭 I’m currently working on some exciting projects.
+- 🔭 I’m currently working on **Personal Projects**
 - 🎓 I'm currently studying Software Engineering at [ITBS](https://itbs.tn/).
-- 🌱 I'm always learning and exploring new technologies.
+- 🌱 I'm always learning and exploring new technologies.And I’m currently learning **React**
 - 📫 How to reach me: <strong><a href="lindagacha86@gmail.com">lindagacha86@gmail.com</a>
 - 📄 See my [Portfolio](https://linda-gacha.github.io/Portfolio-cv/)
 - 📄 See my [CV](https://heyzine.com/flip-book/0a2b27e40a.html)
